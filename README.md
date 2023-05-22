@@ -1,9 +1,6 @@
 # Bienvenido a **Servidores.gg**
 
-<a href="https://servidores.gg">
-<img src="https://github.com/svsmc/servidores.gg/assets/64993224/2295cd03-c9ea-459c-b6d0-b7bd1b846f0b" alt="Servidores.gg logo" title="Servidores.gg logo" width="150"/>
-</a>
-
+[![Servidores.gg](https://github-production-user-asset-6210df.s3.amazonaws.com/64993224/239782447-2295cd03-c9ea-459c-b6d0-b7bd1b846f0b.png)](https://servidores.gg/)
 
 ## ¿Qué es **servidores.gg**?
 
