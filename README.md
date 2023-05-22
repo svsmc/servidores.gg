@@ -1,4 +1,8 @@
-# Bienvenido/a a **Servidores.gg**
+# Bienvenido a **Servidores.gg**
+
+[![Servidores.gg logo](https://github.com/svsmc/servidores.gg/assets/64993224/2295cd03-c9ea-459c-b6d0-b7bd1b846f0b)](https://servidores.gg)
+
+
 
 ## ¿Qué es **servidores.gg**?
 
